@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Aaron Pederson
-  description: Kibana - designed to take data from any source and search, analyze, and visualize it in real time.
+  description: "Kibana - designed to take data from any source and search, analyze, and visualize it in real time."
   license: MIT
   platforms:
     - name: Ubuntu
