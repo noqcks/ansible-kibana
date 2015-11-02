@@ -2,6 +2,7 @@
 
 [Kibana](https://www.elastic.co/products/kibana) - Explore & Visualize Your Data
 
+[![Build Status](https://travis-ci.org/telusdigital/ansible-kibana.svg?branch=master)](https://travis-ci.org/telusdigital/ansible-kibana)
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
 Tunables
