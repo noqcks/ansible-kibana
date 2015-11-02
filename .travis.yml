@@ -26,3 +26,5 @@ script:
   # check idempotence
   - "ansible-playbook -i tests/inventory tests/$PLAYBOOK --connection=local --sudo"
   
+  # check that kibana is installed and running
+  - "curl http://localhost:5601"
